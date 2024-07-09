@@ -1,0 +1,11 @@
+pandas
+Flask
+scikit-learn
+numpy
+matplotlib
+seaborn
+datetime
+collections
+regex
+wordcloud
+random
